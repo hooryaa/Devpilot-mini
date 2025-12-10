@@ -1,0 +1,16 @@
+* [33m8eba9da[m[33m ([m[1;32mui-dashboard[m[33m)[m Merged dashboard, package.json, data, and vscode bridge
+* [33m707c938[m[33m ([m[1;31morigin/ui-dashboard[m[33m)[m Added icon fixes, esbuild updates, and type fixes
+* [33mf7d62e0[m Implemented dynamic commit generator, chatbot, and TODO tracker
+[31m|[m *   [33mcd08f15[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #4 from DevPilotTeam/ui-dashboard
+[31m|[m [32m|[m[31m\[m  
+[31m|[m [32m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m   
+* [32m|[m [33m451a4c5[m progress: dashboard build pipeline + css cleanup fixes
+* [32m|[m [33mc95ba71[m Updated extension.ts and esbuild.mjs — dashboard build setup
+* [32m|[m [33mbcb152f[m Updated extension.ts and esbuild.mjs — dashboard build setup
+* [32m|[m [33mf363d8e[m Updated extension.ts and esbuild.mjs — dashboard build setup
+[33m|[m *   [33m5e551fa[m Merge pull request #3 from DevPilotTeam/ui-dashboard
+[33m|[m [34m|[m[33m\[m  
+[33m|[m [34m|[m[33m/[m  
+[33m|[m[33m/[m[34m|[m   
+* [34m|[m [33m90a886c[m Added UI dashboard structure and components
